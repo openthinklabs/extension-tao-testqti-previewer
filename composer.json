@@ -1,5 +1,5 @@
 {
-  "name": "oat-sa/extension-tao-testqti-previewer",
+  "name": "openthinklabs/extension-tao-testqti-previewer",
   "description": "extension that provides QTI test previewer",
   "type": "tao-extension",
   "authors": [
