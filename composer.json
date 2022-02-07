@@ -1,5 +1,5 @@
 {
-  "name": "oat-sa/extension-tao-testqti-previewer",
+  "name": "openthinklabs/extension-tao-testqti-previewer",
   "description": "extension that provides QTI test previewer",
   "type": "tao-extension",
   "authors": [
@@ -27,17 +27,17 @@
   },
   "minimum-stability": "dev",
   "require": {
-    "oat-sa/oatbox-extension-installer": "~1.1||dev-master",
-    "oat-sa/generis" : ">=14.0.0",
-    "oat-sa/tao-core" : ">=47.0.0",
-    "oat-sa/extension-tao-item" : ">=11.11.2",
-    "oat-sa/extension-tao-outcomeui" : ">=10.0.0",
-    "oat-sa/extension-tao-itemqti" : ">=28.22.0",
-    "oat-sa/extension-tao-testqti" : ">=41.22.2",
-    "oat-sa/extension-tao-test" : ">=15.0.0",
-    "oat-sa/extension-tao-delivery" : ">=15.0.0",
-    "oat-sa/extension-tao-outcome" : ">=13.0.0",
-    "qtism/qtism": "~0"
+    "openthinklabs/oatbox-extension-installer": "1.2.2",
+    "openthinklabs/generis" : "15.11.0.2",
+    "openthinklabs/tao-core" : "48.66.1.1",
+    "openthinklabs/extension-tao-item" : "11.21.0.4",
+    "openthinklabs/extension-tao-outcomeui" : "11.0.3.1",
+    "openthinklabs/extension-tao-itemqti" : "28.28.1.1",
+    "openthinklabs/extension-tao-testqti" : "42.0.1.1",
+    "openthinklabs/extension-tao-test" : "15.10.2.3",
+    "openthinklabs/extension-tao-delivery" : "15.8.1.4",
+    "openthinklabs/extension-tao-outcome" : "13.1.0.4",
+    "openthinklabs/qtism": "0.25.1.3"
   },
   "autoload": {
     "psr-4": {
