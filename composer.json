@@ -26,6 +26,72 @@
     "tao-extension-name": "taoQtiTestPreviewer"
   },
   "minimum-stability": "dev",
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "git@github.com:openthinklabs/oatbox-extension-installer.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:openthinklabs/generis.git"
+		},                        
+		{
+			"type": "vcs",
+			"url": "git@github.com:openthinklabs/tao-core.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:openthinklabs/extension-tao-item.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:openthinklabs/extension-tao-outcomeui.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:openthinklabs/extension-tao-outcomeui.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:openthinklabs/extension-tao-itemqti.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:openthinklabs/extension-tao-testqti.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:openthinklabs/extension-tao-delivery.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:openthinklabs/extension-tao-outcome.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:openthinklabs/qti-sdk.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:openthinklabs/lib-generis-search.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:openthinklabs/jig.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:openthinklabs/composer-npm-bridge.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:openthinklabs/extension-tao-test.git"
+		},			
+		{
+			"type": "vcs",
+			"url": "git@github.com:openthinklabs/lib-beeme.git"
+		}
+	],		      
   "require": {
     "openthinklabs/oatbox-extension-installer": "1.2.2",
     "openthinklabs/generis" : "15.11.0.2",
