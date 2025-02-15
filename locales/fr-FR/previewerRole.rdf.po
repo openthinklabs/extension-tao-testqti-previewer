@@ -4,19 +4,19 @@ msgstr ""
 "PO-Revision-Date: 2023-03-02T15:43:34\n"
 "Last-Translator: TAO Translation Team <translation@tao.lu>\n"
 "MIME-Version: 1.0\n"
-"Language: ja-JP\n"
+"Language: fr-FR\n"
 "sourceLanguage: en-US\n"
-"targetLanguage: ja-JP\n"
+"targetLanguage: fr-FR\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 # http://www.tao.lu/Ontologies/TAOTest.rdf#TaoQtiTestPreviewerRole
 msgctxt "http://www.w3.org/2000/01/rdf-schema#label"
 msgid "taoQtiTestPreviewer Manager"
-msgstr "taoQtiTestPreviewer Manager"
+msgstr ""
 
 # http://www.tao.lu/Ontologies/TAOTest.rdf#TaoQtiTestPreviewerRole
 msgctxt "http://www.w3.org/2000/01/rdf-schema#comment"
 msgid "taoQtiTestPreviewer Manager Role"
-msgstr "taoQtiTestPreviewer Manager Role"
+msgstr ""
 

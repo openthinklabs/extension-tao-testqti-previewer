@@ -4,9 +4,9 @@ msgstr ""
 "PO-Revision-Date: 2023-03-02T15:43:34\n"
 "Last-Translator: TAO Translation Team <translation@tao.lu>\n"
 "MIME-Version: 1.0\n"
-"Language: ja-JP\n"
+"Language: fr-FR\n"
 "sourceLanguage: en-US\n"
-"targetLanguage: ja-JP\n"
+"targetLanguage: fr-FR\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-Basepath: ../../\n"
@@ -14,68 +14,68 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 
 msgid "Actual size"
-msgstr "実サイズ"
+msgstr ""
 
 msgid "An error occurred during results submission. Please retry."
-msgstr "結果の送信中にエラーが発生しました。再試行してください。"
+msgstr ""
 
 msgid "An error occurred!"
-msgstr "エラーが発生しました"
+msgstr ""
 
 msgid "Close"
-msgstr "閉じる"
+msgstr ""
 
 msgid "Close console"
-msgstr "コンソールを閉じる"
+msgstr ""
 
 msgid "Close the previewer"
-msgstr "プレビュアを閉じる"
+msgstr ""
 
 msgid "Desktop preview"
-msgstr "デスクトッププレビュー"
+msgstr ""
 
 msgid "File not found"
-msgstr "ファイルが見つかりません"
+msgstr ""
 
 msgid "Go back to tests selection"
-msgstr "テスト一覧に戻る"
+msgstr ""
 
 msgid "It seems that some items have been deleted. Please remove the items with empty labels from the test and save before trying again."
 msgstr ""
 
 msgid "It seems that there is an error during item preview loading. Please, try again."
-msgstr "アイテムプレビューの読み込み中にエラーが発生したようです。お手数ですが、もう一度お試しください。"
+msgstr ""
 
 msgid "Item Preview:"
-msgstr "アイテムプレビュ"
+msgstr ""
 
 msgid "Landscape"
-msgstr "ランドスケープ"
+msgstr ""
 
 msgid "Logout"
-msgstr "ログアウト"
+msgstr ""
 
 msgid "Mobile preview"
-msgstr "モバイルプレビュ"
+msgstr ""
 
 msgid "Output data"
-msgstr "アウトプットデータ"
+msgstr ""
 
 msgid "Portrait"
-msgstr "ポートレート"
+msgstr ""
 
 msgid "Submit"
-msgstr "送信"
+msgstr ""
 
 msgid "Submit and show the result"
-msgstr "提出して結果を表示"
+msgstr ""
 
 msgid "Submitted data"
-msgstr "送信済みデータ"
+msgstr ""
 
 msgid "TAO Guest"
-msgstr "TAOゲスト"
+msgstr ""
 
 msgid "Test Preview:"
-msgstr "プレビュー:"
+msgstr "Aperçu des tests :"
 
