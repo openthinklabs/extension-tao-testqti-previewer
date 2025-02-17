@@ -36,7 +36,7 @@
     "openthinklabs/extension-tao-test" : "dev-master",
     "openthinklabs/extension-tao-delivery" : "dev-master",
     "openthinklabs/extension-tao-outcome" : "dev-master",
-    "qtism/qtism": "~0"
+    "qtism/qtism": "dev-master"
   },
   "autoload": {
     "psr-4": {
