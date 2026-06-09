@@ -30,6 +30,7 @@ use oat\taoQtiTestPreviewer\models\TestCategoryPresetMap;
 
 class TestCategoryPresetMapTest extends TestCase
 {
+
     /** @var TestCategoryPresetProvider|MockObject */
     private $testCategoryPresetProviderMock;
 

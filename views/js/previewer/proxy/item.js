@@ -58,7 +58,7 @@ define([
 
                 if (_.isPlainObject(actionParams)) {
                     return _.mapValues(actionParams, (value, key) => {
-                        if (_.includes(stringifyParams, key)) {
+                        if (_.contains(stringifyParams, key)) {
                             return JSON.stringify(value);
                         }
                         return value;

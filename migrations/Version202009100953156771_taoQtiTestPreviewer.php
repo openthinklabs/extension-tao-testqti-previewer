@@ -15,6 +15,7 @@ use oat\taoItems\model\ontology\ItemAuthorRole;
  */
 final class Version202009100953156771_taoQtiTestPreviewer extends AbstractMigration
 {
+
     public function getDescription(): string
     {
         return 'Grant access to previewer to item author';

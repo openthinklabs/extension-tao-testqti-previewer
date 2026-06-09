@@ -59,7 +59,7 @@ define([
                 communicator: {
                     id: 'request',
                     module: 'core/communicator/request',
-                    bundle: Object.keys(config.previewers || {}).length === 1 ? 'loader/vendor.min' : null,
+                    bundle: 'loader/vendor.min',
                     category: 'communicator'
                 },
                 plugins: config.plugins || []

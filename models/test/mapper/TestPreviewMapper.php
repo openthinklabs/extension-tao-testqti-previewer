@@ -135,13 +135,11 @@ class TestPreviewMapper extends ConfigurableService implements TestPreviewMapper
                 if (!isset($map['parts'][$partId]['sections'][$sectionId])) {
                     $map['parts'][$partId]['sections'][$sectionId]['id'] = $sectionId;
                     $map['parts'][$partId]['sections'][$sectionId]['label'] = $section->getTitle();
-                    // @TODO Implement as feature
-                    $map['parts'][$partId]['sections'][$sectionId]['isCatAdaptive'] = false;
+                    $map['parts'][$partId]['sections'][$sectionId]['isCatAdaptive'] = false; //@TODO Implement as feature
                     $map['parts'][$partId]['sections'][$sectionId]['position'] = $offset;
 
                     if ($section->hasTimeLimits()) {
-                        // @TODO Implement as feature
-                        $map['parts'][$partId]['sections'][$sectionId]['timeConstraint'] = null;
+                        $map['parts'][$partId]['sections'][$sectionId]['timeConstraint'] = null; //@TODO Implement as feature
                     }
                 }
 
